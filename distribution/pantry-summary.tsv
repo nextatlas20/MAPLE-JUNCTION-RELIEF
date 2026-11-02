@@ -1,0 +1,5 @@
+pantry_id	district	pantry_name	capacity_units	allocated_requests	allocated_units	capacity_holds	inventory_holds
+P-01	North	Alder Pantry	70	2	45	0	1
+P-02	South	Beacon Pantry	50	1	20	1	1
+P-03	North	Cedar Pantry	40	1	40	1	0
+P-04	East	Delta Pantry	30	2	22	1	2
